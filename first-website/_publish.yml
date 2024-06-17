@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 1f2a521e-ed1e-4c95-9b20-77356ae5e95c
+      url: 'https://brezzy8a17.quarto.pub/first-website'
