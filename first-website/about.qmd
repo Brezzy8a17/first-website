@@ -2,4 +2,8 @@
 title: "Gerardo's Site"
 ---
 
-About this site
+## About Me
+
+My name is **Gerardo 0**. and *I box*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
